@@ -1,0 +1,17 @@
+module.exports = {
+  User: require('./User'),
+  Vendor: require('./Vendor'),
+  Product: require('./Product'),
+  Cart: require('./Cart'),
+  Order: require('./Order'),
+  Requirement: require('./Requirement'),
+  Offer: require('./Offer'),
+  PurchaseEvent: require('./PurchaseEvent'),
+  InventoryInsight: require('./InventoryInsight'),
+  RescueDeal: require('./RescueDeal'),
+  Analytics: require('./Analytics'),
+  Notification: require('./Notification'),
+  Report: require('./Report'),
+  ActivityLog: require('./ActivityLog'),
+  Settings: require('./Settings'),
+};
